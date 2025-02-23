@@ -123,8 +123,10 @@ let xArray = x.split(", ");
 console.log(xArray)
 let y =challenge.replace("javascript", "python");//It has failed though
 console.log(y)
-Order of precedence
+
+//Order of precedence
 let value =3+(4*5);
 console.log(value)
 let value =10/2*4+5-3;
 console.log(value)
+

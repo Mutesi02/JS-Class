@@ -6,12 +6,12 @@ let user ={ firstName:"Irene Mutesi", lastName:"Tesi",
 city:"Kampala",
 country:"Uganda";
 }
-console.log(user);
+// console.log(user);
 
 //Array
 let cars =["benz", "toyota","ranger"];
 
 //the math objects
 const PI=Math.PI
-console.log(Math.PI);
-console.log(Math.round.PI);
+// console.log(Math.PI);
+// console.log(Math.round.PI);
