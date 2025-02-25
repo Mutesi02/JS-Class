@@ -37,3 +37,4 @@ if(weatherNow === "rainy"){
 } else{
     console.log("No need for an umbrella")
 }
+
