@@ -4,5 +4,4 @@ console.log(now.getMonth())
 console.log(now.getDate())
 console.log(now.getHours())
 console.log(now.getMinutes())
-let newDate =new Date("1970-01-01");
-console.log(newDate)
+console.log(Math.floor(Date.now() / 1000));

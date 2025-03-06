@@ -1,6 +1,6 @@
 let firstName="Irene Mutesi";
 let lastName="Tesi";
-l;et age=20
+let age=20
 let isMarried=false;
 // let city="Kampala";
 let country="Uganda";

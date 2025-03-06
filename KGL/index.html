@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>KGL Store Stock Management</h1>
+
+    <h2>Current Stock:</h2>
+
+    <ul>
+        <li>Beans <span id="beans">40</span>kg</li>
+        <li>Maize <span id="maize">60</span>kg</li>
+        <li>Cow Peas <span id="cow-peas">79</span>kg</li>
+    </ul>
+
+    <form action="">
+    <label for="produce">Choose the Produce:</label>
+    <select name="produce" id="produce">
+        <option value="beans">beans</option>
+        <option value="maize">maize</option>
+        <option value="cow peas">cow peas</option>
+    </select> <br><br>
+
+    <label for="value">Enter New Stock Value:</label>
+
+    <input type="text" id="text" name="stock-value"> <br><br>
+    <button type="button">Update</button>
+</form>
+<script src="../KGL/index.js"></script>
+</body>
+</html>

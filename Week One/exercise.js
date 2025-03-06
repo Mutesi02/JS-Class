@@ -62,6 +62,8 @@ let randomString = Math.floor(Math.random()*javascriptString.length);
 let randomChar = javascriptString[randomString];
 console.log(randomChar)
 
+
+//Exercise 7
 console.log("1 1 1 1 1");
 console.log("2 1 2 4 8");
 console.log("3 1 3 9 2 7");
@@ -70,3 +72,4 @@ console.log("5 1 5 25 125");
 
 let strg = "You cannot end a sentence with because because because in a conjuction";
 console.log(string.substr(31,23)) //31 is for the index where because starts from, while 23 is length from the first because to the last because.
+
